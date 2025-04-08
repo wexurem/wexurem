@@ -1,5 +1,3 @@
-### silly coder
----
 # self-introduction:
 
 ## haiii, im nightdenpa! nice to meet ya! 
@@ -11,7 +9,7 @@
 ## just in case, that will be hereeee
 ---
 # bwaaa
-![assets/bwaaa.jpg]
+[assets/bwaaa.jpg]
 
 <!--
 **nightdenpa/nightdenpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
