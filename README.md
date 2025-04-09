@@ -5,7 +5,7 @@
 ### home: comfy place somewhere in the internet✨✨✨
 ### operating system: i use arch btw
 ### bwaaa: bwaaa
-### other info: yoisaki kanade kinn, silly coder
+### other info: yoisaki kanade kinn
 ![This file is from the game assets of Project SEKAI: Colorful Stage!. The copyright is held by SEGA, Colorful Palette Inc., and Crypton Future Media, INC. This file is displayed here under the conditions of fair dealing.](assets/1024px-Kanade_3_art.png)
 
 ## just in case, that will be hereeee
