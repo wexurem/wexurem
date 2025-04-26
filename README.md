@@ -10,9 +10,6 @@
 
 ## just in case, that will be hereeee
 
-# bwaaa
-![bwaaa](assets/bwaaa.jpg)
-
 <!--
 **nightdenpa/nightdenpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
