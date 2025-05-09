@@ -2,7 +2,6 @@
 
 ## haiii, im nightdenpa! nice to meet ya! 
 ### name: astelmon, but you can call me as you want ＼(≧▽≦)／
-### pronouns: she/her
 ### home: comfy place somewhere in the internet✨✨✨
 ### operating system: i use arch btw
 ### bwaaa: bwaaa
