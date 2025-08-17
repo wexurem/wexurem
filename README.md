@@ -1,16 +1,15 @@
 # self-introduction:
 
-## haiii, im nightdenpa! nice to meet ya! 
-### name: astelmon, but you can call me as you want ＼(≧▽≦)／
+## haiii, im wexurem! nice to meet ya! 
+### name: wexu!!
 ### pronouns: she/her
 ### home: comfy place somewhere in the internet✨✨✨
-### operating system: i use arch btw
 ### bwaaa: bwaaa
 ### other info: yoisaki kanade kinn
 ![This file is from the game assets of Project SEKAI: Colorful Stage!. The copyright is held by SEGA, Colorful Palette Inc., and Crypton Future Media, INC. This file is displayed here under the conditions of fair dealing.](assets/Kanade_3_art.png)
 
 <!--
-**nightdenpa/nightdenpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wexurem/wexurem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
