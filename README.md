@@ -1,6 +1,6 @@
 # self-introduction:
 
-## haiii, im wexurem! nice to meet ya! 
+## haiii, im wexurem!! nice to meet ya!! 
 ### name: wexu!!
 ### pronouns: she/her
 ### home: comfy place somewhere in the internet✨✨✨
